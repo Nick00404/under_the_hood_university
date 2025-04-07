@@ -22,8 +22,6 @@ This project isn’t just about gaining knowledge — it's about **automating, s
 | 04. MLOps & DevOps | Bash, Git, Docker, FastAPI, Kubernetes, CI/CD |
 | 05. Cloud | AWS, GCP, Azure (EC2, S3, IAM, Lambda etc.) |
 | 06. LLMs & LangChain | LLMs, RAG, LangChain, Vector DBs |
-| 07. Fullstack Projects | FastAPI apps, Chatbots, Monitoring Dashboards |
-| 08. Admin & Logs | Schedules, Logs, Progress Tracking, Automation |
 
 ---
 
@@ -34,7 +32,6 @@ Everything is built around **real-world skills**, organized by folders/modules w
 - 📒 **Jupyter Notebooks** for live, runnable lessons
 - ⚙️ **Auto-generated templates** & structured prompts
 - 📘 **Markdown guides** for theory & context
-- 🧪 **Projects** for reinforcement and showcasing
 
 ```bash
 under_the_hood_univercity/
@@ -44,5 +41,3 @@ under_the_hood_univercity/
 ├── 04_mlops_devops/
 ├── 05_cloud/
 ├── 06_llm_langchain/
-├── 07_projects/
-├── 08_university_admin/
