@@ -8,13 +8,13 @@
 ---
 
 ## 🚀 My Origin Story
-From commerce to code, heartbreak to hustle. I embarked on this journey with nothing but curiosity and a keyboard. Today, I present to you **Under the Hood University**—a self-crafted curriculum that rivals the best, born from passion, perseverance, and a touch of rebellio.
+From commerce to code, heartbreak to hustle. I embarked on this journey with nothing but curiosity and a keyboard. Today, I present to you **Under the Hood University**—a self-crafted curriculum that rivals the best, born from passion, perseverance, and a touch of rebellion.
 
 ---
 
 ## 🎯 The Missio
 
-To democratize AI education, breaking barriers and building bridges between ambition and achievement. This isn't just a repository; it's a revolutin.
+To democratize AI education, breaking barriers and building bridges between ambition and achievement. This isn't just a repository; it's a revolution.
 
 ---
 
@@ -31,7 +31,7 @@ To democratize AI education, breaking barriers and building bridges between ambi
 | 🧪 Experiment Tracking    | Utilize tools like Optuna, DVC, and MLflow.      |
 | 🧠 Explainability         | Understand SHAP, LIME, and model interpretability.|
 | 🧰 Tools & Utilities      | Get acquainted with Streamlit, Gradio, and more. |
-| 🧠 Soft Skills            | Enhance documentation, communication and ethics.|
+| 🧠 Soft Skills            | Enhance documentation, communication and ethics.|
 
 ---
 
@@ -40,7 +40,7 @@ To democratize AI education, breaking barriers and building bridges between ambi
 - **Languages**: Python, Markdown, YAML
 - **Frameworks**: PyTorch, TensorFlow, FastAI
 - **Tools**: Docker, Git, MLflow, DVC
-- **Platforms**: GitHub, Steamlit, Gradio
+- **Platforms**: GitHub, Streamlit, Gradio
 
 ---
 
@@ -63,25 +63,25 @@ To democratize AI education, breaking barriers and building bridges between ambi
 
 ## 🌟 Why his Stands Out
 
-Unlike traditional courses, ths curriculum is:
-- **Hands-On**: Real-world projects nd applications.
-- **omprehensive**: Covers a broad spectrum from basics toadvanced topics.
-- **Flexible**: Learn at your own pace, i your own style.
+Unlike traditional courses, this curriculum is:
+- **Hands-On**: Real-world projects and applications.
+- **Comprehensive**: Covers a broad spectrum from basics to advanced topics.
+- **Flexible**: Learn at your own pace, in your own style.
 
 ---
 
 ## 🔗 Connet & Collaborate
-
+I'm always open to feedback, collaborations, and discussions. Feel free to reach out or contribute!
 I'm always open to feedback, collaborations, and discussions. Feel free to reach ut or contribute!
 
 ---
 
 ## 📜 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file fo details.
 
 ---
-
-Embark on this journey, and let's redefine AI eucation together.
+*Embark on this journey, and let's redefine AI education together.*
+*Embark on this journey, and let's redefine AI eucation together.*
 
 ---
