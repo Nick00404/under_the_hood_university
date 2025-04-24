@@ -6,6 +6,9 @@
 - [04 evaluation with ragas trl](./04_evaluation_with_ragas_trl.ipynb)
 - [05 multimodal rag images tables](./05_multimodal_rag_images_tables.ipynb)
 - [06 production rag with llamaindex](./06_production_rag_with_llamaindex.ipynb)
+- [`07_lab_chunking_and_embedding_evaluation.ipynb`](./07_lab_chunking_and_embedding_evaluation.ipynb)  
+- [`08_lab_vector_search_pipeline_with_chroma.ipynb`](./08_lab_vector_search_pipeline_with_chroma.ipynb)  
+- [`09_lab_metadata_filtering_in_retrieval.ipynb`](./09_lab_metadata_filtering_in_retrieval.ipynb)  
 
 ---
 

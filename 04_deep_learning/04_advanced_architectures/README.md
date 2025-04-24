@@ -6,7 +6,9 @@
 - [04 attention free architectures mlp mixer](./04_attention_free_architectures_mlp_mixer.ipynb)
 - [05 spiking neural nets surrogate gradients](./05_spiking_neural_nets_surrogate_gradients.ipynb)
 - [06 diffusion models for generation](./06_diffusion_models_for_generation.ipynb)
-
+- [ 07 lab gnn_node classification with cora.ipynb ](./07_lab_gnn_node_classification_with_cora.ipynb)  
+- [ 08 lab memory augmented net tiny tasks.ipynb ](./08_lab_memory_augmented_net_tiny_tasks.ipynb)  
+- [ 09 lab diffusion model toy image gen.ipynb ](./09_lab_diffusion_model_toy_image_gen.ipynb)  
 ---
 
 ## 📘 **Advanced Deep Learning – Structured Index**

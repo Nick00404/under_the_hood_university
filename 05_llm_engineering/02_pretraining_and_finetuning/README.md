@@ -6,6 +6,9 @@
 - [04 instruction finetuning alpaca format](./04_instruction_finetuning_alpaca_format.ipynb)
 - [05 rlhf reward modeling ppo](./05_rlhf_reward_modeling_ppo.ipynb)
 - [06 domain adaptation medical legal finetuning](./06_domain_adaptation_medical_legal_finetuning.ipynb)
+- [`07_lab_tiny_gpt2_pretraining_from_scratch.ipynb`](./07_lab_tiny_gpt2_pretraining_from_scratch.ipynb)  
+- [`08_lab_parameter_efficient_finetune_lora.ipynb`](./08_lab_parameter_efficient_finetune_lora.ipynb)  
+- [`09_lab_rlhf_reward_model_mock_demo.ipynb`](./09_lab_rlhf_reward_model_mock_demo.ipynb)  
 
 ---
 

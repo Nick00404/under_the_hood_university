@@ -8,7 +8,9 @@
 - [04 distributed training horovod pytorch ddp](./04_distributed_training_horovod_pytorch_ddp.ipynb)
 - [05 monitoring models prometheus grafana](./05_monitoring_models_prometheus_grafana.ipynb)
 - [06 scaling with kubernetes kubeflow](./06_scaling_with_kubernetes_kubeflow.ipynb)
-
+- [ 07 lab export pytorch to onnx and run.ipynb ](./07_lab_export_pytorch_to_onnx_and_run.ipynb)  
+- [ 08 lab dockerize and_test flask model server.ipynb ](./08_lab_dockerize_and_test_flask_model_server.ipynb)  
+- [ 09 lab k8s microservice mock deploy.ipynb ](./09_lab_k8s_microservice_mock_deploy.ipynb)  
 ---
 
 ## 📘 **Model Export, Deployment, and Monitoring – Structured Index**

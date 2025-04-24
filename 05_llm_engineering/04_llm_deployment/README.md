@@ -6,6 +6,9 @@
 - [04 edge deployment ollama mlc](./04_edge_deployment_ollama_mlc.ipynb)
 - [05 caching and request batching](./05_caching_and_request_batching.ipynb)
 - [06 cost monitoring and autoscaling](./06_cost_monitoring_and_autoscaling.ipynb)
+- [`07_lab_vllm_vs_tgi_latency_comparison.ipynb`](./07_lab_vllm_vs_tgi_latency_comparison.ipynb)  
+- [`08_lab_quantize_with_gptq_and_awq.ipynb`](./08_lab_quantize_with_gptq_and_awq.ipynb)  
+- [`09_lab_batching_and_request_queuing_testbed.ipynb`](./09_lab_batching_and_request_queuing_testbed.ipynb)  
 
 ---
 

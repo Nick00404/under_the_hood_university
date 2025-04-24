@@ -6,6 +6,9 @@
 - [04 semantic segmentation unet deeplab](./04_semantic_segmentation_unet_deeplab.ipynb)
 - [05 vision transformers vit swin](./05_vision_transformers_vit_swin.ipynb)
 - [06 gans for image generation dcgan stylegan](./06_gans_for_image_generation_dcgan_stylegan.ipynb)
+- [07 lab cnn feature_maps visualization.ipynb](./07_lab_cnn_feature_maps_visualization.ipynb)  
+- [08_lab data augmentation comparison.ipynb](./08_lab_data_augmentation_comparison.ipynb)  
+- [09 lab finetune resnet_on custom_data.ipynb](./09_lab_finetune_resnet_on_custom_data.ipynb)  
 
 ---
 

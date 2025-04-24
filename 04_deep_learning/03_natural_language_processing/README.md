@@ -6,6 +6,9 @@
 - [04 pretrained transformers bert gpt finetuning](./04_pretrained_transformers_bert_gpt_finetuning.ipynb)
 - [05 text generation with beam search sampling](./05_text_generation_with_beam_search_sampling.ipynb)
 - [06 multilingual nlp xlm roberta mt5](./06_multilingual_nlp_xlm_roberta_mt5.ipynb)
+- [07_ ab finetuning gpt2 text generation.ipynb](./07_lab_finetuning_gpt2_text_generation.ipynb)  
+- [08 lab masked language modeling from_scratch.ipynb](./08_lab_masked_language_modeling_from_scratch.ipynb)  
+- [09 lab attention visualization.ipynb](./09_lab_attention_visualization.ipynb)  
 
 ---
 

@@ -6,6 +6,9 @@
 - [04 scaling laws and compute optimization](./04_scaling_laws_and_compute_optimization.ipynb)
 - [05 model architectures gpt llama mistral](./05_model_architectures_gpt_llama_mistral.ipynb)
 - [06 attention optimizations flash paged](./06_attention_optimizations_flash_paged.ipynb)
+- [`07_lab_tokenizer_visualizer_and_custom_vocab.ipynb`](./07_lab_tokenizer_visualizer_and_custom_vocab.ipynb)  
+- [`08_lab_transformer_forward_pass_step_by_step.ipynb`](./08_lab_transformer_forward_pass_step_by_step.ipynb)  
+- [`09_lab_prompt_patterns_and_token_logprobs.ipynb`](./09_lab_prompt_patterns_and_token_logprobs.ipynb)  
 
 ---
 

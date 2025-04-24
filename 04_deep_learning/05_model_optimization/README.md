@@ -6,7 +6,9 @@
 - [04 onnx and tensorrt conversion](./04_onnx_and_tensorrt_conversion.ipynb)
 - [05 tflite and coreml for mobile](./05_tflite_and_coreml_for_mobile.ipynb)
 - [06 mixed precision training](./06_mixed_precision_training.ipynb)
-
+- [ 07 lab weight pruning and accuracy tracking.ipynb ](./07_lab_weight_pruning_and_accuracy_tracking.ipynb)  
+- [ 08 lab quantize resnet fp32 to_int8.ipynb ](./08_lab_quantize_resnet_fp32_to_int8.ipynb)  
+- [ 09 lab distill teacher student on mnist.ipynb ](./09_lab_distill_teacher_student_on_mnist.ipynb)  
 ---
 
 ## 📘 **Model Optimization and Deployment – Structured Index**

@@ -96,3 +96,10 @@
 - Example: Visualizing complex embeddings from NLP models
 
 ---
+
+Add-On | Notes
+🔬 LOF / One-Class SVM Labs | Only compared conceptually, not implemented — optional to add lab/code notebooks
+🎯 Clustering Performance Metrics | Like Silhouette Score, Davies-Bouldin, Calinski-Harabasz — could be a small appendix notebook
+📊 Using Dimensionality Reduction before Clustering | (e.g., PCA → KMeans, UMAP → DBSCAN) — practical combo patterns
+🧪 End-to-End Capstone | Real-world dataset: customer data, medical anomalies, etc. (e.g., UMAP + KMeans + Isolation Forest in pipeline)
+🧠 DBSCAN or HDBSCAN | Optional: density-based clustering — super useful but more niche than KMeans/hierarchical

@@ -6,7 +6,9 @@
 - [04 llm os agi prototyping](./04_llm_os_agi_prototyping.ipynb)
 - [05 compression sparse pruning](./05_compression_sparse_pruning.ipynb)
 - [06 energy efficient llms](./06_energy_efficient_llms.ipynb)
-
+- [ 07 lab moe switch transformer inference.ipynb ](./07_lab_moe_switch_transformer_inference.ipynb)  
+- [ 08 lab long context test rag vs ringattention.ipynb ](./08_lab_long_context_test_rag_vs_ringattention.ipynb)  
+- [ 09 lab multi agent llm scratchpad protocol.ipynb ](./09_lab_multi_agent_llm_scratchpad_protocol.ipynb) 
 ---
 
 ## 📘 **Advanced Topics – Structured Index**

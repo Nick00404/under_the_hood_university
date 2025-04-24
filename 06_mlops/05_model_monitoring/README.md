@@ -1,4 +1,11 @@
 
+- [ 07 lab data drift simulation with evidently.ipynb ](./07_lab_data_drift_simulation_with_evidently.ipynb)  
+- [ 08 lab concept drift tracking with river.ipynb ](./08_lab_concept_drift_tracking_with_river.ipynb)  
+- [ 09 lab alerting pipeline with prometheus.ipynb ](./09_lab_alerting_pipeline_with_prometheus.ipynb) 
+- [ 10_lab_monitor_model_latency_with_prometheus.ipynb ](./10_lab_monitor_model_latency_with_prometheus.ipynb)
+- [ 11_lab_concurrent_traffic_with_locust.ipynb ](./11_lab_concurrent_traffic_with_locust.ipynb)
+- [ 12_lab_grafana_dashboard_for_live_model_metrics.ipynb ](./12_lab_grafana_dashboard_for_live_model_metrics.ipynb)
+
 ## ✅ **05_model_monitoring**
 
 This module focuses on tracking the health, performance, and integrity of deployed models over time. It covers techniques for monitoring model performance, detecting data and concept drift, and setting up alerting mechanisms to ensure robust and reliable model operations.
@@ -102,3 +109,12 @@ This module focuses on tracking the health, performance, and integrity of deploy
 - **Automation & Integration**: Ensure that students can integrate monitoring tools with CI/CD pipelines and alerting systems for end-to-end automation.
 
 ---
+
+| Lab Filename                                                  | Purpose |
+|---------------------------------------------------------------|---------|
+| `07_lab_data_drift_simulation_with_evidently.ipynb`           | Inject synthetic feature drift and visualize it using the Evidently dashboard |
+| `08_lab_concept_drift_tracking_with_river.ipynb`              | Track concept drift in real-time using a streaming model and rolling accuracy stats |
+| `09_lab_alerting_pipeline_with_prometheus.ipynb`              | Connect model metrics to Prometheus and trigger Slack alerts when thresholds are crossed |
+| `10_lab_monitor_model_latency_with_prometheus.ipynb`          | Record model inference times and set Prometheus-based alerts for latency spikes |
+| `11_lab_concurrent_traffic_with_locust.ipynb`                 | Simulate concurrent API load on a model server using Locust and monitor failure patterns |
+| `12_lab_grafana_dashboard_for_live_model_metrics.ipynb`       | Build a Grafana dashboard for visualizing real-time ML metrics like accuracy, latency, drift |

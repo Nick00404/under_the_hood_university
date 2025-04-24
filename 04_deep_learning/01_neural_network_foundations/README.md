@@ -1,12 +1,13 @@
 # 01 Neural Network Foundations
-[01 tensor operations](./04_deep_learning/01_neural_network_foundations/01_tensor_operations_with_pytorch_tensorflow.ipynb)
-
 - [01 tensor operations with pytorch tensorflow](./01_tensor_operations_with_pytorch_tensorflow.ipynb)
 - [02 building mlps from scratch](./02_building_mlps_from_scratch.ipynb)
 - [03 activation functions and vanishing gradients](./03_activation_functions_and_vanishing_gradients.ipynb)
 - [04 loss functions mse crossentropy contrastive](./04_loss_functions_mse_crossentropy_contrastive.ipynb)
 - [05 backpropagation autograd custom rules](./05_backpropagation_autograd_custom_rules.ipynb)
 - [06 regularization dropout batchnorm l1l2](./06_regularization_dropout_batchnorm_l1l2.ipynb)
+- [07 lab manual tensor_ops_and shapes.ipynb](./07_lab_manual_tensor_ops_and_shapes.ipynb)  
+- [08 lab xor problem_with mlp.ipynb](./08_lab_xor_problem_with_mlp.ipynb)  
+- [09 lab autograd from scratch.ipynb](./09_lab_autograd_from_scratch.ipynb)  
 
 ---
 
@@ -132,3 +133,78 @@
   - Using TensorBoard for visualizing model training
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 🔧 `04_deep_learning`
+
+---
+
+### 📁 `01_neural_network_foundations`
+
+| Lab Filename                                      | Purpose |
+|--------------------------------------------------|---------|
+| `07_lab_manual_tensor_ops_and_shapes.ipynb`      | Hands-on with PyTorch & TensorFlow tensor basics |
+| `08_lab_xor_problem_with_mlp.ipynb`              | Implement an MLP that solves XOR (non-linearity test) |
+| `09_lab_autograd_from_scratch.ipynb`             | Build your own `autograd` engine for full backprop understanding |
+
+---
+
+### 📁 `02_computer_vision`
+
+| Lab Filename                                       | Purpose |
+|---------------------------------------------------|---------|
+| `07_lab_cnn_feature_maps_visualization.ipynb`     | Visualize CNN filters & activations layer-by-layer |
+| `08_lab_data_augmentation_comparison.ipynb`       | Try flips, crops, cutout, mixup and compare accuracy impact |
+| `09_lab_finetune_resnet_on_custom_data.ipynb`     | Mini fine-tune ResNet on e.g. flower dataset or your dataset |
+
+---
+
+### 📁 `03_natural_language_processing`
+
+| Lab Filename                                            | Purpose |
+|---------------------------------------------------------|---------|
+| `07_lab_finetuning_gpt2_text_generation.ipynb`          | Fine-tune GPT-2 on custom text + compare before/after |
+| `08_lab_masked_language_modeling_from_scratch.ipynb`    | Train a mini BERT-style model on small dataset |
+| `09_lab_attention_visualization.ipynb`                  | Use `bertviz` or equivalent to see attention heads in action |
+
+---
+
+### 📁 `04_advanced_architectures`
+
+| Lab Filename                                             | Purpose |
+|----------------------------------------------------------|---------|
+| `07_lab_gnn_node_classification_with_cora.ipynb`         | Build Graph Neural Network with PyG or DGL on citation graphs |
+| `08_lab_memory_augmented_net_tiny_tasks.ipynb`           | Simple NTM use-case: copy tasks or associative recall |
+| `09_lab_diffusion_model_toy_image_gen.ipynb`             | Implement or run toy diffusion-based image generator |
+
+---
+
+### 📁 `05_model_optimization`
+
+| Lab Filename                                             | Purpose |
+|----------------------------------------------------------|---------|
+| `07_lab_weight_pruning_and_accuracy_tracking.ipynb`      | Visualize what happens to accuracy as you prune weights |
+| `08_lab_quantize_resnet_fp32_to_int8.ipynb`              | Quantize pretrained ResNet with ONNX or TFLite and compare perf |
+| `09_lab_distill_teacher_student_on_mnist.ipynb`          | Train a large teacher → distill knowledge to a small student |
+
+---
+
+### 📁 `06_deployment_and_scaling`
+
+| Lab Filename                                               | Purpose |
+|------------------------------------------------------------|---------|
+| `07_lab_export_pytorch_to_onnx_and_run.ipynb`              | Convert a trained PyTorch model to ONNX and infer locally |
+| `08_lab_dockerize_and_test_flask_model_server.ipynb`       | Package model with Flask + Docker + run test API calls |
+| `09_lab_k8s_microservice_mock_deploy.ipynb`                | Deploy a basic REST-serving model to Minikube or GKE (mock style) |
+
