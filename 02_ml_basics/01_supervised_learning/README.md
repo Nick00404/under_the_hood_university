@@ -147,20 +147,7 @@
 
 ## 🧭 Master Table of Contents
 
-### 📘 [02 Logistic Regression & Classification Metrics](#logistic-understanding)
-- 🧠 [Understanding Logistic Regression](#logistic-understanding)
-  - 🔢 [Binary Classification Motivation](#binary-motivation)
-  - 📈 [Sigmoid Function & Probability Output](#sigmoid-probability)
-  - 🚧 [Decision Boundary Interpretation](#decision-boundary)
-- 🛠️ [Training the Model](#logistic-training)
-  - 💸 [Cost Function for Logistic Regression](#logistic-cost)
-  - 🔁 [Gradient Descent for Logistic Regression](#logistic-gd)
-  - ⚖️ [Feature Scaling](#feature-scaling)
-- 📊 [Evaluation & Performance](#logistic-evaluation)
-  - 📏 [Accuracy, Precision, Recall, F1](#metrics)
-  - 🧮 [Confusion Matrix](#confusion-matrix)
-  - 📉 [ROC Curve & AUC](#roc-auc)
-  - 🔥 [Overfitting in Classification Models](#overfitting-classification)
+
 
 ---
 
@@ -244,25 +231,6 @@
 
 
 
----
-
-## 📘 `02_logistic_regression_and_classification_metrics.ipynb`
-
-### 🧠 <a id="logistic-understanding"></a>**1. Understanding Logistic Regression**
-#### <a id="binary-motivation"></a>🔢 Binary Classification Motivation  
-#### <a id="sigmoid-probability"></a>📈 Sigmoid Function & Probability Output  
-#### <a id="decision-boundary"></a>🚧 Decision Boundary Interpretation  
-
-### 🛠️ <a id="logistic-training"></a>**2. Training the Model**
-#### <a id="logistic-cost"></a>💸 Cost Function for Logistic Regression  
-#### <a id="logistic-gd"></a>🔁 Gradient Descent for Logistic Regression  
-#### <a id="feature-scaling"></a>⚖️ Feature Scaling  
-
-### 📊 <a id="logistic-evaluation"></a>**3. Evaluation & Performance**
-#### <a id="metrics"></a>📏 Accuracy, Precision, Recall, F1  
-#### <a id="confusion-matrix"></a>🧮 Confusion Matrix  
-#### <a id="roc-auc"></a>📉 ROC Curve & AUC  
-#### <a id="overfitting-classification"></a>🔥 Overfitting in Classification Models  
 
 ---
 
